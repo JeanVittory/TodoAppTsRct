@@ -1,5 +1,5 @@
 import { Todos } from '../../models/Todo';
-import { SingleTodo } from '../singleTodo/singleTodo';
+import { SingleTodo } from '../singleTodo/SingleTodo';
 import '../styles.css';
 
 interface Props {
